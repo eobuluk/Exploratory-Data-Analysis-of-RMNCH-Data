@@ -13,17 +13,12 @@ df.describe()
 
 This provided a high level overview of the RMNCH indicators. The key findings included:
 
-• The average number of first ANC visits for women was 2,729, with significant regional variations from 852 to 7,258.
-
-• On average, 777 women attended their first ANC visit in the first trimester, while some regions reported fewer visits.
-
-• On average, 2,197 women received iron/folic acid during their first ANC visit, though regional disparities existed.
-
-• An average of 3 maternal deaths were audited, and some regions reported no audits.
-
-• For perinatal deaths audited, the average was 25.7, with large regional differences.
-
-• On average, 294 caesarian sections were performed, with variation from region to region.
+- The average number of first ANC visits for women was 2,729, with significant regional variations from 852 to 7,258.
+- On average, 777 women attended their first ANC visit in the first trimester, while some regions reported fewer visits.
+- On average, 2,197 women received iron/folic acid during their first ANC visit, though regional disparities existed.
+- An average of 3 maternal deaths were audited, and some regions reported no audits.
+- For perinatal deaths audited, the average was 25.7, with large regional differences.
+- On average, 294 caesarian sections were performed, with variation from region to region.
 
 ### Distribution of Total Antenatal care (ANC) Visits:
 Antenatal care (ANC) visits is one of the key RMNCH indicators. I visualized the total number of ANC visits using a histogram with a kernel density estimate (KDE) in order to understand the distribution of this variable. Below is the Python code that was used to plot the distribution of the total ANC visits (New clients + Re-attendances):
